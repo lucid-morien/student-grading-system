@@ -19,4 +19,4 @@ class Student():
             return "F"
 
     def to_string(self):
-        retrun f"{self.student_id}, {self.name},{self.score}
+        return f"{self.student_id}, {self.name},{self.score}"
